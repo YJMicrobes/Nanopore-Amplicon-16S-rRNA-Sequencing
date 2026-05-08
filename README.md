@@ -130,14 +130,17 @@ Methodological notes
 
 
 
-Citation
+## Citation
 
-If you use this pipeline, please cite:
-Salem Ghribi, Lorenzo Degli Esposti, Blaire Steven, Nubia Zuverza-Mena, Jing Yuan, LaReau, Jacquelyn, Jason C. White, Deb P. Jaisi, Alessio Adamiano*, Michele Iafisco*. Functionalization of amorphous and crystalline calcium phosphate nanoparticles with urea for phosphorus and nitrogen fertilizer applications. Journal of Agricultural and Food Chemistry (2025).
+If you use this pipeline, please cite the following work:
 
-The other related nanopore metagenoimic sequencing pipeline, please see:
-Jing Yuan, Jacquelyn LaReau, Beth Lawrence, Madeleine Meadows-McDonnell, Blaire Steven, Itamar Shabtai*. Thresholds within a soil moisture gradient drive abrupt transitions in microbial community structure resulting in distinct carbon utilization patterns. Soil Ecology Letter (2026).
+> Ghribi, S., Degli Esposti, L., Steven, B., Zuverza-Mena, N., Yuan, J., LaReau, J., White, J. C., Jaisi, D. P., Adamiano, A., & Iafisco, M. (2025). Functionalization of amorphous and crystalline calcium phosphate nanoparticles with urea for phosphorus and nitrogen fertilizer applications. Journal of Agricultural and Food Chemistry. https://doi.org/10.1021/acs.jafc.5c03970
 
+---
+
+For the related Nanopore amplicon sequencing workflow, please also cite:
+
+> Yuan, J., LaReau, J., Lawrence, B., Meadows-McDonnell, M., Steven, B., & Shabtai, I. (2026). Thresholds within a soil moisture gradient drive abrupt transitions in microbial community structure resulting in distinct carbon utilization patterns. Soil Ecology Letters. https://doi.org/10.1016/j.apsoil.2026.106966
 
 
 License
@@ -145,5 +148,5 @@ This project is released for academic use. Please contact the author for commerc
 
 
 Contact
-Yuan Jing, Ph.D.
+> Yuan Jing, Ph.D.
 
