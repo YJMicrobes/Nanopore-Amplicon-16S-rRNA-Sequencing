@@ -61,7 +61,7 @@ Without GPU access, basecalling will be extremely slow or may fail.
 
 
 
-2. Module system dependencies
+### 2. Module system dependencies
 
 This pipeline assumes an HPC environment using the module system.
 
@@ -82,7 +82,7 @@ module load cutadapt
 
 
 
-3. No module system available?
+### 3. No module system available?
 
 If your system does not support module load, you can create a Conda environment instead:
 
@@ -93,21 +93,22 @@ conda activate nanopore_env
 
 Or install tools manually if required.
 
-Usage
 
-Step 1: Run main pipeline
+## Usage
+
+#### Step 1: Run main pipeline
 ```
 bash nanopore_amplicon_pipeline.sh
 ```
 
-Step 2: Run mothur analysis
+#### Step 2: Run mothur analysis
 ```
 mothur nanopore_amplicon_mothur.batch
 ```
 
 
 
-Input data
+## Input data
 POD5 files (raw Nanopore signal data)
 Barcode demultiplexing index file (minibar.index)
 Output structure
@@ -122,7 +123,7 @@ mothur_output/
 
 
 
-Methodological notes
+## Methodological notes
 - This pipeline is optimized for full-length 16S rRNA gene sequencing (27F–1492R).
 - Designed for Oxford Nanopore Technologies long-read amplicon data.
 - Supports multi-sample batch processing (e.g., 60+ samples).
@@ -143,10 +144,12 @@ For the related Nanopore amplicon sequencing workflow, please also cite:
 > Yuan, J., LaReau, J., Lawrence, B., Meadows-McDonnell, M., Steven, B., & Shabtai, I. (2026). Thresholds within a soil moisture gradient drive abrupt transitions in microbial community structure resulting in distinct carbon utilization patterns. Soil Ecology Letters. https://doi.org/10.1016/j.apsoil.2026.106966
 
 
-License
+## License
+
 This project is released for academic use. Please contact the author for commercial use or collaboration.
 
 
-Contact
+## Contact
+
 > Yuan Jing, Ph.D.
 
