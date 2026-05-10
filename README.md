@@ -139,7 +139,7 @@ If you use this pipeline, please cite the following work:
 
 ---
 
-For the related Nanopore amplicon sequencing workflow, please also cite:
+For the Nanopore metagenomic sequencing workflow, please see:
 
 > Yuan, J., LaReau, J., Lawrence, B., Meadows-McDonnell, M., Steven, B., & Shabtai, I. (2026). Thresholds within a soil moisture gradient drive abrupt transitions in microbial community structure resulting in distinct carbon utilization patterns. Soil Ecology Letters. https://doi.org/10.1016/j.apsoil.2026.106966
 
