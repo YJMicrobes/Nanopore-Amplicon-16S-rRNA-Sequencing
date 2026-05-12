@@ -151,5 +151,5 @@ This project is released for academic use. Please contact the author for commerc
 
 ## Contact
 
-> Yuan Jing, Ph.D.
-
+> Yuan Jing, Ph.D. \
+> Microbial Ecology | Metagenomics | Microbiome Bioinformatics
